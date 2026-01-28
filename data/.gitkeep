@@ -1,0 +1,3 @@
+# Place your sms_spam.csv dataset file here
+# Expected columns: label, text
+# Labels should be: spam or ham
